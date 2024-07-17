@@ -1,0 +1,1531 @@
+{
+    "0": {
+        "filename": "data/il1_r1q1-01.wav",
+        "question": "question: name the composer",
+        "ground_truth": "Manuel de Falla",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "1": {
+        "filename": "data/il1_r1q1-02.wav",
+        "question": "question: name the composer",
+        "ground_truth": "Manuel de Falla",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "2": {
+        "filename": "data/il1_r1q1-03.wav",
+        "question": "question: name the composer",
+        "ground_truth": "Manuel de Falla",
+        "predicted_answers": [
+            "no ",
+            "novel ",
+            "yes "
+        ],
+        "model": "Pengi"
+    },
+    "3": {
+        "filename": "data/il1_r1q1-04.wav",
+        "question": "question: name the composer",
+        "ground_truth": "Manuel de Falla",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "4": {
+        "filename": "data/il1_r1q1-05.wav",
+        "question": "question: name the composer",
+        "ground_truth": "Manuel de Falla",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "5": {
+        "filename": "data/il2_r1q2-01.wav",
+        "question": "question: name the work",
+        "ground_truth": "Symphony of a Thousand",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "weeping "
+        ],
+        "model": "Pengi"
+    },
+    "6": {
+        "filename": "data/il2_r1q2-02.wav",
+        "question": "question: name the work",
+        "ground_truth": "Symphony of a Thousand",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "weeping "
+        ],
+        "model": "Pengi"
+    },
+    "7": {
+        "filename": "data/il2_r1q2-03.wav",
+        "question": "question: name the work",
+        "ground_truth": "Symphony of a Thousand",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "weep "
+        ],
+        "model": "Pengi"
+    },
+    "8": {
+        "filename": "data/il2_r1q2-04.wav",
+        "question": "question: name the work",
+        "ground_truth": "Symphony of a Thousand",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "welder "
+        ],
+        "model": "Pengi"
+    },
+    "9": {
+        "filename": "data/il2_r1q2-05.wav",
+        "question": "question: name the work",
+        "ground_truth": "Symphony of a Thousand",
+        "predicted_answers": [
+            "yes ",
+            "no ",
+            "weeping "
+        ],
+        "model": "Pengi"
+    },
+    "10": {
+        "filename": "data/il2_r1q2-06.wav",
+        "question": "question: name the work",
+        "ground_truth": "Symphony of a Thousand",
+        "predicted_answers": [
+            "yes ",
+            "no ",
+            "weeping "
+        ],
+        "model": "Pengi"
+    },
+    "11": {
+        "filename": "data/il3_r1q3-01.wav",
+        "question": "question: name the work",
+        "ground_truth": "Camelot",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "yeah "
+        ],
+        "model": "Pengi"
+    },
+    "12": {
+        "filename": "data/il3_r1q3-02.wav",
+        "question": "question: name the work",
+        "ground_truth": "Camelot",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "weeping "
+        ],
+        "model": "Pengi"
+    },
+    "13": {
+        "filename": "data/il3_r1q3-03.wav",
+        "question": "question: name the work",
+        "ground_truth": "Camelot",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "weeping "
+        ],
+        "model": "Pengi"
+    },
+    "14": {
+        "filename": "data/il3_r1q3-04.wav",
+        "question": "question: name the work",
+        "ground_truth": "Camelot",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "welder "
+        ],
+        "model": "Pengi"
+    },
+    "15": {
+        "filename": "data/il3_r1q3-05.wav",
+        "question": "question: name the work",
+        "ground_truth": "Camelot",
+        "predicted_answers": [
+            "yes ",
+            "no ",
+            "weeping "
+        ],
+        "model": "Pengi"
+    },
+    "16": {
+        "filename": "data/il3_r1q3-06.wav",
+        "question": "question: name the work",
+        "ground_truth": "Camelot",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "weeping "
+        ],
+        "model": "Pengi"
+    },
+    "17": {
+        "filename": "data/il4_r1q4-01.wav",
+        "question": "question: name the musical",
+        "ground_truth": "Chicago",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "18": {
+        "filename": "data/il4_r1q4-02.wav",
+        "question": "question: name the musical",
+        "ground_truth": "Chicago",
+        "predicted_answers": [
+            "no ",
+            "novel ",
+            "yes "
+        ],
+        "model": "Pengi"
+    },
+    "19": {
+        "filename": "data/il4_r1q4-03.wav",
+        "question": "question: name the musical",
+        "ground_truth": "Chicago",
+        "predicted_answers": [
+            "no ",
+            "novel ",
+            "yes "
+        ],
+        "model": "Pengi"
+    },
+    "20": {
+        "filename": "data/il4_r1q4-04.wav",
+        "question": "question: name the musical",
+        "ground_truth": "Chicago",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "21": {
+        "filename": "data/il4_r1q4-05.wav",
+        "question": "question: name the musical",
+        "ground_truth": "Chicago",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "22": {
+        "filename": "data/il4_r1q4-06.wav",
+        "question": "question: name the musical",
+        "ground_truth": "Chicago",
+        "predicted_answers": [
+            "no ",
+            "novel ",
+            "yes "
+        ],
+        "model": "Pengi"
+    },
+    "23": {
+        "filename": "data/il5_r1q5-01.wav",
+        "question": "question: name the opera",
+        "ground_truth": "La boh\u00e8me",
+        "predicted_answers": [
+            "no ",
+            "novel ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "24": {
+        "filename": "data/il5_r1q5-02.wav",
+        "question": "question: name the opera",
+        "ground_truth": "La boh\u00e8me",
+        "predicted_answers": [
+            "no ",
+            "noiseless ",
+            "noise "
+        ],
+        "model": "Pengi"
+    },
+    "25": {
+        "filename": "data/il5_r1q5-03.wav",
+        "question": "question: name the opera",
+        "ground_truth": "La boh\u00e8me",
+        "predicted_answers": [
+            "no ",
+            "noise ",
+            "novel music "
+        ],
+        "model": "Pengi"
+    },
+    "26": {
+        "filename": "data/il5_r1q5-04.wav",
+        "question": "question: name the opera",
+        "ground_truth": "La boh\u00e8me",
+        "predicted_answers": [
+            "no ",
+            "noise ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "27": {
+        "filename": "data/il5_r1q5-05.wav",
+        "question": "question: name the opera",
+        "ground_truth": "La boh\u00e8me",
+        "predicted_answers": [
+            "no ",
+            "novel ",
+            "noir "
+        ],
+        "model": "Pengi"
+    },
+    "28": {
+        "filename": "data/il5_r1q5-06.wav",
+        "question": "question: name the opera",
+        "ground_truth": "La boh\u00e8me",
+        "predicted_answers": [
+            "novel ",
+            "novel music ",
+            "novelty "
+        ],
+        "model": "Pengi"
+    },
+    "29": {
+        "filename": "data/pavement1_r1q18-01.wav",
+        "question": "question: name the type of song",
+        "ground_truth": "anime opening themes",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "novel "
+        ],
+        "model": "Pengi"
+    },
+    "30": {
+        "filename": "data/pavement1_r1q18-02.wav",
+        "question": "question: name the type of song",
+        "ground_truth": "anime opening themes",
+        "predicted_answers": [
+            "novel ",
+            "noise ",
+            "yes "
+        ],
+        "model": "Pengi"
+    },
+    "31": {
+        "filename": "data/pavement1_r1q18-03.wav",
+        "question": "question: name the type of song",
+        "ground_truth": "anime opening themes",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "novel "
+        ],
+        "model": "Pengi"
+    },
+    "32": {
+        "filename": "data/pavement1_r1q18-04.wav",
+        "question": "question: name the type of song",
+        "ground_truth": "anime opening themes",
+        "predicted_answers": [
+            "no ",
+            "novel ",
+            "noise "
+        ],
+        "model": "Pengi"
+    },
+    "33": {
+        "filename": "data/pavement1_r1q18-05.wav",
+        "question": "question: name the type of song",
+        "ground_truth": "anime opening themes",
+        "predicted_answers": [
+            "noise ",
+            "novel ",
+            "yes "
+        ],
+        "model": "Pengi"
+    },
+    "34": {
+        "filename": "data/pavement1_r1q18-06.wav",
+        "question": "question: name the type of song.",
+        "ground_truth": "anime opening themes",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "noise "
+        ],
+        "model": "Pengi"
+    },
+    "35": {
+        "filename": "data/pavement1_r7q10-01.wav",
+        "question": "question: name the group.",
+        "ground_truth": "The Strokes",
+        "predicted_answers": [
+            "person ",
+            "music ",
+            "duck "
+        ],
+        "model": "Pengi"
+    },
+    "36": {
+        "filename": "data/pavement1_r7q10-02.wav",
+        "question": "question: name the group.",
+        "ground_truth": "The Strokes",
+        "predicted_answers": [
+            "music ",
+            "person ",
+            "sound "
+        ],
+        "model": "Pengi"
+    },
+    "37": {
+        "filename": "data/pavement1_r7q10-03.wav",
+        "question": "question: name the group.",
+        "ground_truth": "The Strokes",
+        "predicted_answers": [
+            "music ",
+            "person ",
+            "engine "
+        ],
+        "model": "Pengi"
+    },
+    "38": {
+        "filename": "data/pavement1_r7q10-04.wav",
+        "question": "question: name the group.",
+        "ground_truth": "The Strokes",
+        "predicted_answers": [
+            "person ",
+            "music ",
+            "man "
+        ],
+        "model": "Pengi"
+    },
+    "39": {
+        "filename": "data/pavement1_r7q10-05.wav",
+        "question": "question: name the group.",
+        "ground_truth": "The Strokes",
+        "predicted_answers": [
+            "person ",
+            "music ",
+            "normal "
+        ],
+        "model": "Pengi"
+    },
+    "40": {
+        "filename": "data/pavement1_r7q10-06.wav",
+        "question": "question: name the group.",
+        "ground_truth": "The Strokes",
+        "predicted_answers": [
+            "person ",
+            "music ",
+            "phone "
+        ],
+        "model": "Pengi"
+    },
+    "41": {
+        "filename": "data/pavement2_r12q12-01.wav",
+        "question": "question: name the group.",
+        "ground_truth": "Cascada",
+        "predicted_answers": [
+            "music ",
+            "person ",
+            "mouse "
+        ],
+        "model": "Pengi"
+    },
+    "42": {
+        "filename": "data/pavement2_r12q12-02.wav",
+        "question": "question: name the group.",
+        "ground_truth": "Cascada",
+        "predicted_answers": [
+            "music ",
+            "person ",
+            "door "
+        ],
+        "model": "Pengi"
+    },
+    "43": {
+        "filename": "data/pavement2_r12q12-03.wav",
+        "question": "question: name the group.",
+        "ground_truth": "Cascada",
+        "predicted_answers": [
+            "music ",
+            "sound ",
+            "person "
+        ],
+        "model": "Pengi"
+    },
+    "44": {
+        "filename": "data/pavement2_r12q12-04.wav",
+        "question": "question: name the group.",
+        "ground_truth": "Cascada",
+        "predicted_answers": [
+            "music ",
+            "sound ",
+            "person "
+        ],
+        "model": "Pengi"
+    },
+    "45": {
+        "filename": "data/pavement2_r12q12-05.wav",
+        "question": "question: name the group.",
+        "ground_truth": "Cascada",
+        "predicted_answers": [
+            "music ",
+            "person ",
+            "door "
+        ],
+        "model": "Pengi"
+    },
+    "46": {
+        "filename": "data/pavement2_r12q12-06.wav",
+        "question": "question: name the group.",
+        "ground_truth": "Cascada",
+        "predicted_answers": [
+            "music ",
+            "person ",
+            "sound "
+        ],
+        "model": "Pengi"
+    },
+    "47": {
+        "filename": "data/pavement2_r1q10-01.wav",
+        "question": "question: give the first word in the titles of these songs.",
+        "ground_truth": "baby",
+        "predicted_answers": [
+            " ",
+            "\u00a0 ",
+            ". "
+        ],
+        "model": "Pengi"
+    },
+    "48": {
+        "filename": "data/pavement2_r1q10-02.wav",
+        "question": "question: give the first word in the titles of these songs.",
+        "ground_truth": "baby",
+        "predicted_answers": [
+            " ",
+            "\u00a0music ",
+            "\u00a0 "
+        ],
+        "model": "Pengi"
+    },
+    "49": {
+        "filename": "data/pavement2_r1q10-03.wav",
+        "question": "question: give the first word in the titles of these songs.",
+        "ground_truth": "baby",
+        "predicted_answers": [
+            " ",
+            "\u00a0music ",
+            "\u00a0 "
+        ],
+        "model": "Pengi"
+    },
+    "50": {
+        "filename": "data/pavement2_r1q10-04.wav",
+        "question": "question: give the first word in the titles of these songs.",
+        "ground_truth": "baby",
+        "predicted_answers": [
+            " ",
+            "\u00a0 ",
+            ". "
+        ],
+        "model": "Pengi"
+    },
+    "51": {
+        "filename": "data/pavement2_r1q10-05.wav",
+        "question": "question: give the first word in the titles of these songs.",
+        "ground_truth": "baby",
+        "predicted_answers": [
+            " ",
+            "\u00a0 ",
+            " music "
+        ],
+        "model": "Pengi"
+    },
+    "52": {
+        "filename": "data/pavement2_r1q10-06.wav",
+        "question": "question: give the first word in the titles of these songs.",
+        "ground_truth": "baby",
+        "predicted_answers": [
+            " ",
+            "\u00a0 hip hop ",
+            "\u00a0 "
+        ],
+        "model": "Pengi"
+    },
+    "53": {
+        "filename": "data/pavement3_r11q16-01.wav",
+        "question": "question: name the media franchise that these songs are most associated with.",
+        "ground_truth": "Rocky",
+        "predicted_answers": [
+            "pop music ",
+            "pop ",
+            "popcorn "
+        ],
+        "model": "Pengi"
+    },
+    "54": {
+        "filename": "data/pavement3_r11q16-02.wav",
+        "question": "question: name the media franchise that these songs are most associated with.",
+        "ground_truth": "Rocky",
+        "predicted_answers": [
+            "popcorn ",
+            "pop music ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "55": {
+        "filename": "data/pavement3_r11q16-03.wav",
+        "question": "question: name the media franchise that these songs are most associated with.",
+        "ground_truth": "Rocky",
+        "predicted_answers": [
+            "pop music ",
+            "popcorn ",
+            "opener "
+        ],
+        "model": "Pengi"
+    },
+    "56": {
+        "filename": "data/pavement3_r11q16-04.wav",
+        "question": "question: name the media franchise that these songs are most associated with.",
+        "ground_truth": "Rocky",
+        "predicted_answers": [
+            "popcorn ",
+            "pop music ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "57": {
+        "filename": "data/pavement3_r11q16-05.wav",
+        "question": "question: name the media franchise that these songs are most associated with.",
+        "ground_truth": "Rocky",
+        "predicted_answers": [
+            "pop music ",
+            "pop ",
+            "popcorn "
+        ],
+        "model": "Pengi"
+    },
+    "58": {
+        "filename": "data/pavement3_r11q16-06.wav",
+        "question": "question: name the media franchise that these songs are most associated with.",
+        "ground_truth": "Rocky",
+        "predicted_answers": [
+            "popcorn ",
+            "stereo ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "59": {
+        "filename": "data/pavement3_r8q16-01.wav",
+        "question": "question: name the type of person mentioned in the titles of these songs.",
+        "ground_truth": "enemy",
+        "predicted_answers": [
+            "music ",
+            "rock ",
+            "metal "
+        ],
+        "model": "Pengi"
+    },
+    "60": {
+        "filename": "data/pavement3_r8q16-02.wav",
+        "question": "question: name the type of person mentioned in the titles of these songs.",
+        "ground_truth": "enemy",
+        "predicted_answers": [
+            "music ",
+            "trapped ",
+            "trailer "
+        ],
+        "model": "Pengi"
+    },
+    "61": {
+        "filename": "data/pavement3_r8q16-03.wav",
+        "question": "question: name the type of person mentioned in the titles of these songs.",
+        "ground_truth": "enemy",
+        "predicted_answers": [
+            "music ",
+            "trapped ",
+            "female "
+        ],
+        "model": "Pengi"
+    },
+    "62": {
+        "filename": "data/pavement3_r8q16-04.wav",
+        "question": "question: name the type of person mentioned in the titles of these songs.",
+        "ground_truth": "enemy",
+        "predicted_answers": [
+            "music ",
+            "female ",
+            "male "
+        ],
+        "model": "Pengi"
+    },
+    "63": {
+        "filename": "data/pavement3_r8q16-05.wav",
+        "question": "question: name the type of person mentioned in the titles of these songs.",
+        "ground_truth": "enemy",
+        "predicted_answers": [
+            "music ",
+            "trailer ",
+            "female "
+        ],
+        "model": "Pengi"
+    },
+    "64": {
+        "filename": "data/pavement3_r8q16-06.wav",
+        "question": "question: name the type of person mentioned in the titles of these songs.",
+        "ground_truth": "enemy",
+        "predicted_answers": [
+            "music ",
+            "trailer ",
+            "trapped "
+        ],
+        "model": "Pengi"
+    },
+    "65": {
+        "filename": "data/soundtrack2_r2q1-01.wav",
+        "question": "question: the male characters singing these songs share what first name?",
+        "ground_truth": "Joe",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "one "
+        ],
+        "model": "Pengi"
+    },
+    "66": {
+        "filename": "data/soundtrack2_r2q1-02.wav",
+        "question": "question: the male characters singing these songs share what first name?",
+        "ground_truth": "Joe",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "positive "
+        ],
+        "model": "Pengi"
+    },
+    "67": {
+        "filename": "data/soundtrack2_r2q1-03.wav",
+        "question": "question: the male characters singing these songs share what first name?",
+        "ground_truth": "Joe",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "positive "
+        ],
+        "model": "Pengi"
+    },
+    "68": {
+        "filename": "data/soundtrack2_r2q1-04.wav",
+        "question": "question: the male characters singing these songs share what first name?",
+        "ground_truth": "Joe",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "negative "
+        ],
+        "model": "Pengi"
+    },
+    "69": {
+        "filename": "data/soundtrack2_r2q1-05.wav",
+        "question": "question: the male characters singing these songs share what first name?",
+        "ground_truth": "Joe",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "one "
+        ],
+        "model": "Pengi"
+    },
+    "70": {
+        "filename": "data/soundtrack2_r2q1-06.wav",
+        "question": "question: the male characters singing these songs share what first name?",
+        "ground_truth": "Joe",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "71": {
+        "filename": "data/soundtrack_r1q1-01.wav",
+        "question": "question: name the work.",
+        "ground_truth": "Saving Private Ryan",
+        "predicted_answers": [
+            "person ",
+            "personnel ",
+            "man "
+        ],
+        "model": "Pengi"
+    },
+    "72": {
+        "filename": "data/soundtrack_r1q1-02.wav",
+        "question": "question: name the work.",
+        "ground_truth": "Saving Private Ryan",
+        "predicted_answers": [
+            "person ",
+            "oustic ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "73": {
+        "filename": "data/soundtrack_r1q1-03.wav",
+        "question": "question: name the work.",
+        "ground_truth": "Saving Private Ryan",
+        "predicted_answers": [
+            "person ",
+            "man ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "74": {
+        "filename": "data/soundtrack_r1q1-04.wav",
+        "question": "question: name the work.",
+        "ground_truth": "Saving Private Ryan",
+        "predicted_answers": [
+            "person ",
+            "oustic ",
+            "door "
+        ],
+        "model": "Pengi"
+    },
+    "75": {
+        "filename": "data/soundtrack_r1q1-05.wav",
+        "question": "question: name the work.",
+        "ground_truth": "Saving Private Ryan",
+        "predicted_answers": [
+            "person ",
+            "oustic ",
+            "man "
+        ],
+        "model": "Pengi"
+    },
+    "76": {
+        "filename": "data/soundtrack_r1q2-01.wav",
+        "question": "question: name the work.",
+        "ground_truth": "Ben-Hur",
+        "predicted_answers": [
+            "person ",
+            "door ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "77": {
+        "filename": "data/soundtrack_r1q2-02.wav",
+        "question": "question: name the work.",
+        "ground_truth": "Ben-Hur",
+        "predicted_answers": [
+            "person ",
+            "door ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "78": {
+        "filename": "data/soundtrack_r1q2-03.wav",
+        "question": "question: name the work.",
+        "ground_truth": "Ben-Hur",
+        "predicted_answers": [
+            "person ",
+            "door ",
+            "engine "
+        ],
+        "model": "Pengi"
+    },
+    "79": {
+        "filename": "data/soundtrack_r1q2-04.wav",
+        "question": "question: name the work.",
+        "ground_truth": "Ben-Hur",
+        "predicted_answers": [
+            "person ",
+            "grandstand ",
+            "man "
+        ],
+        "model": "Pengi"
+    },
+    "80": {
+        "filename": "data/soundtrack_r1q2-05.wav",
+        "question": "question: name the work.",
+        "ground_truth": "Ben-Hur",
+        "predicted_answers": [
+            "person ",
+            "door ",
+            "concert "
+        ],
+        "model": "Pengi"
+    },
+    "81": {
+        "filename": "data/soundtrack_r1q2-06.wav",
+        "question": "question: name the work.",
+        "ground_truth": "Ben-Hur",
+        "predicted_answers": [
+            "person ",
+            "oustic ",
+            "door "
+        ],
+        "model": "Pengi"
+    },
+    "82": {
+        "filename": "data/EternalSonata_r5_q10-03.wav",
+        "question": "question: name the game",
+        "ground_truth": "KATAMARI DAMACY",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "nothing "
+        ],
+        "model": "Pengi"
+    },
+    "83": {
+        "filename": "data/EternalSonata_r5_q10-02.wav",
+        "question": "question: name the game",
+        "ground_truth": "KATAMARI DAMACY",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "nothing "
+        ],
+        "model": "Pengi"
+    },
+    "84": {
+        "filename": "data/EternalSonata_r4_q1-06.wav",
+        "question": "question: name the series",
+        "ground_truth": "ASSASSIN'S CREED",
+        "predicted_answers": [
+            "yes ",
+            "no ",
+            "Yes "
+        ],
+        "model": "Pengi"
+    },
+    "85": {
+        "filename": "data/EternalSonata_r2_q1-01.wav",
+        "question": "question: name the series",
+        "ground_truth": "GRADIUS",
+        "predicted_answers": [
+            "yes ",
+            "no ",
+            "Yes "
+        ],
+        "model": "Pengi"
+    },
+    "86": {
+        "filename": "data/EternalSonata_r2_q1-03.wav",
+        "question": "question: name the series",
+        "ground_truth": "GRADIUS",
+        "predicted_answers": [
+            "yes ",
+            "no ",
+            "Yes "
+        ],
+        "model": "Pengi"
+    },
+    "87": {
+        "filename": "data/EternalSonata_r4_q1-04.wav",
+        "question": "question: name the series",
+        "ground_truth": "ASSASSIN'S CREED",
+        "predicted_answers": [
+            "yes ",
+            "no ",
+            "Yes "
+        ],
+        "model": "Pengi"
+    },
+    "88": {
+        "filename": "data/EternalSonata_r5_q10-01.wav",
+        "question": "question: name the game",
+        "ground_truth": "KATAMARI DAMACY",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "nothing "
+        ],
+        "model": "Pengi"
+    },
+    "89": {
+        "filename": "data/EternalSonata_r4_q1-05.wav",
+        "question": "question: name the series",
+        "ground_truth": "ASSASSIN'S CREED",
+        "predicted_answers": [
+            "yes ",
+            "no ",
+            "Yes "
+        ],
+        "model": "Pengi"
+    },
+    "90": {
+        "filename": "data/EternalSonata_r2_q1-02.wav",
+        "question": "question: name the series",
+        "ground_truth": "GRADIUS",
+        "predicted_answers": [
+            "yes ",
+            "no ",
+            "Yes "
+        ],
+        "model": "Pengi"
+    },
+    "91": {
+        "filename": "data/EternalSonata_r2_q1-06.wav",
+        "question": "question: name the series",
+        "ground_truth": "GRADIUS",
+        "predicted_answers": [
+            "yes ",
+            "no ",
+            "Yes "
+        ],
+        "model": "Pengi"
+    },
+    "92": {
+        "filename": "data/EternalSonata_r4_q1-01.wav",
+        "question": "question: name the series",
+        "ground_truth": "ASSASSIN'S CREED",
+        "predicted_answers": [
+            "yes ",
+            "no ",
+            "Yes "
+        ],
+        "model": "Pengi"
+    },
+    "93": {
+        "filename": "data/EternalSonata_r5_q10-05.wav",
+        "question": "question: name the game",
+        "ground_truth": "KATAMARI DAMACY",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "nothing "
+        ],
+        "model": "Pengi"
+    },
+    "94": {
+        "filename": "data/EternalSonata_r5_q10-04.wav",
+        "question": "question: name the game",
+        "ground_truth": "KATAMARI DAMACY",
+        "predicted_answers": [
+            "no ",
+            "no sound ",
+            "yes "
+        ],
+        "model": "Pengi"
+    },
+    "95": {
+        "filename": "data/EternalSonata_r2_q1-05.wav",
+        "question": "question: name the series",
+        "ground_truth": "GRADIUS",
+        "predicted_answers": [
+            "yes ",
+            "no ",
+            "Yes "
+        ],
+        "model": "Pengi"
+    },
+    "96": {
+        "filename": "data/EternalSonata_r4_q1-02.wav",
+        "question": "question: name the series",
+        "ground_truth": "ASSASSIN'S CREED",
+        "predicted_answers": [
+            "yes ",
+            "no ",
+            "Yes "
+        ],
+        "model": "Pengi"
+    },
+    "97": {
+        "filename": "data/EternalSonata_r4_q1-03.wav",
+        "question": "question: name the series",
+        "ground_truth": "ASSASSIN'S CREED",
+        "predicted_answers": [
+            "yes ",
+            "no ",
+            "Yes "
+        ],
+        "model": "Pengi"
+    },
+    "98": {
+        "filename": "data/EternalSonata_r2_q1-04.wav",
+        "question": "question: name the series",
+        "ground_truth": "GRADIUS",
+        "predicted_answers": [
+            "yes ",
+            "no ",
+            "Yes "
+        ],
+        "model": "Pengi"
+    },
+    "99": {
+        "filename": "data/GuerillaImaginaryLandscape_MiriamNussbaum_q7-06.wav",
+        "question": "question: name the composer",
+        "ground_truth": "L\u00e9o _Delibes_",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "100": {
+        "filename": "data/GuerillaImaginaryLandscape_MiriamNussbaum_q7-07.wav",
+        "question": "question: name the composer",
+        "ground_truth": "L\u00e9o _Delibes_",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "101": {
+        "filename": "data/GuerillaImaginaryLandscape_MiriamNussbaum_q7-05.wav",
+        "question": "question: name the composer",
+        "ground_truth": "L\u00e9o _Delibes_",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "102": {
+        "filename": "data/GuerillaImaginaryLandscape_MiriamNussbaum_q7-04.wav",
+        "question": "question: name the composer",
+        "ground_truth": "L\u00e9o _Delibes_",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "103": {
+        "filename": "data/GuerillaImaginaryLandscape_MiriamNussbaum_q7-01.wav",
+        "question": "question: name the composer",
+        "ground_truth": "L\u00e9o _Delibes_",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "104": {
+        "filename": "data/GuerillaImaginaryLandscape_MiriamNussbaum_q7-03.wav",
+        "question": "question: name the composer",
+        "ground_truth": "L\u00e9o _Delibes_",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "105": {
+        "filename": "data/GuerillaImaginaryLandscape_MiriamNussbaum_q7-02.wav",
+        "question": "question: name the composer",
+        "ground_truth": "L\u00e9o _Delibes_",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "106": {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q1-03.wav",
+        "question": "question: name the composer",
+        "ground_truth": "Aaron _Copland_",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "107": {
+        "filename": "data/GuerillaImaginaryLandscape_ChrisSims_q3-04.wav",
+        "question": "question: identify the kind of word or unit that prominently appears in the titles or subtitles of these pieces",
+        "ground_truth": "_year_",
+        "predicted_answers": [
+            "music ",
+            "buzz ",
+            "sound "
+        ],
+        "model": "Pengi"
+    },
+    "108": {
+        "filename": "data/GuerillaImaginaryLandscape_JeremyTsai_q7-05.wav",
+        "question": "question: name the composer",
+        "ground_truth": "_Josquin_ des Prez",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "109": {
+        "filename": "data/GuerillaImaginaryLandscape_JeremyTsai_q7-04.wav",
+        "question": "question: name the composer",
+        "ground_truth": "_Josquin_ des Prez",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "110": {
+        "filename": "data/GuerillaImaginaryLandscape_ChrisSims_q3-05.wav",
+        "question": "question: identify the kind of word or unit that prominently appears in the titles or subtitles of these pieces",
+        "ground_truth": "_year_",
+        "predicted_answers": [
+            "music ",
+            "piano ",
+            "sound "
+        ],
+        "model": "Pengi"
+    },
+    "111": {
+        "filename": "data/GuerillaImaginaryLandscape_MichaelLi_q6-01.wav",
+        "question": "question: name the work",
+        "ground_truth": "_Hammerklavier_ Sonata",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "weeping "
+        ],
+        "model": "Pengi"
+    },
+    "112": {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q1-02.wav",
+        "question": "question: name the composer",
+        "ground_truth": "Aaron _Copland_",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "113": {
+        "filename": "data/GuerillaImaginaryLandscape_MichaelLi_q6-03.wav",
+        "question": "question: name the work",
+        "ground_truth": "_Hammerklavier_ Sonata",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "myself "
+        ],
+        "model": "Pengi"
+    },
+    "114": {
+        "filename": "data/GuerillaImaginaryLandscape_JeremyTsai_q7-06.wav",
+        "question": "question: name the composer",
+        "ground_truth": "_Josquin_ des Prez",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "115": {
+        "filename": "data/GuerillaImaginaryLandscape_JeremyTsai_q7-07.wav",
+        "question": "question: name the composer",
+        "ground_truth": "_Josquin_ des Prez",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "116": {
+        "filename": "data/GuerillaImaginaryLandscape_ChrisSims_q3-06.wav",
+        "question": "question: identify the kind of word or unit that prominently appears in the titles or subtitles of these pieces",
+        "ground_truth": "_year_",
+        "predicted_answers": [
+            "music ",
+            "piano ",
+            "cute "
+        ],
+        "model": "Pengi"
+    },
+    "117": {
+        "filename": "data/GuerillaImaginaryLandscape_MichaelLi_q6-02.wav",
+        "question": "question: name the work",
+        "ground_truth": "_Hammerklavier_ Sonata",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "yeah "
+        ],
+        "model": "Pengi"
+    },
+    "118": {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q1-01.wav",
+        "question": "question: name the composer",
+        "ground_truth": "Aaron _Copland_",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "door "
+        ],
+        "model": "Pengi"
+    },
+    "119": {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q1-05.wav",
+        "question": "question: name the composer",
+        "ground_truth": "Aaron _Copland_",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "120": {
+        "filename": "data/GuerillaImaginaryLandscape_MichaelLi_q6-06.wav",
+        "question": "question: name the work",
+        "ground_truth": "_Hammerklavier_ Sonata",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "yeah "
+        ],
+        "model": "Pengi"
+    },
+    "121": {
+        "filename": "data/GuerillaImaginaryLandscape_ChrisSims_q3-02.wav",
+        "question": "question: identify the kind of word or unit that prominently appears in the titles or subtitles of these pieces",
+        "ground_truth": "_year_",
+        "predicted_answers": [
+            "music ",
+            "piano ",
+            "sound "
+        ],
+        "model": "Pengi"
+    },
+    "122": {
+        "filename": "data/GuerillaImaginaryLandscape_JeremyTsai_q7-03.wav",
+        "question": "question: name the composer",
+        "ground_truth": "_Josquin_ des Prez",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "123": {
+        "filename": "data/GuerillaImaginaryLandscape_JeremyTsai_q7-02.wav",
+        "question": "question: name the composer",
+        "ground_truth": "_Josquin_ des Prez",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "124": {
+        "filename": "data/GuerillaImaginaryLandscape_ChrisSims_q3-03.wav",
+        "question": "question: identify the kind of word or unit that prominently appears in the titles or subtitles of these pieces",
+        "ground_truth": "_year_",
+        "predicted_answers": [
+            "music ",
+            "bass ",
+            "metal "
+        ],
+        "model": "Pengi"
+    },
+    "125": {
+        "filename": "data/GuerillaImaginaryLandscape_MichaelLi_q6-07.wav",
+        "question": "question: name the work",
+        "ground_truth": "_Hammerklavier_ Sonata",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "yeah "
+        ],
+        "model": "Pengi"
+    },
+    "126": {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q1-04.wav",
+        "question": "question: name the composer",
+        "ground_truth": "Aaron _Copland_",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "127": {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q1-06.wav",
+        "question": "question: name the composer",
+        "ground_truth": "Aaron _Copland_",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "128": {
+        "filename": "data/GuerillaImaginaryLandscape_MichaelLi_q6-05.wav",
+        "question": "question: name the work",
+        "ground_truth": "_Hammerklavier_ Sonata",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "weeping "
+        ],
+        "model": "Pengi"
+    },
+    "129": {
+        "filename": "data/GuerillaImaginaryLandscape_ChrisSims_q3-01.wav",
+        "question": "question: identify the kind of word or unit that prominently appears in the titles or subtitles of these pieces",
+        "ground_truth": "_year_",
+        "predicted_answers": [
+            "music ",
+            "breathing ",
+            "sound "
+        ],
+        "model": "Pengi"
+    },
+    "130": {
+        "filename": "data/GuerillaImaginaryLandscape_JeremyTsai_q7-01.wav",
+        "question": "question: name the composer",
+        "ground_truth": "_Josquin_ des Prez",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "131": {
+        "filename": "data/GuerillaImaginaryLandscape_MichaelLi_q6-04.wav",
+        "question": "question: name the work",
+        "ground_truth": "_Hammerklavier_ Sonata",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "weeping "
+        ],
+        "model": "Pengi"
+    },
+    "132": {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q1-07.wav",
+        "question": "question: name the composer",
+        "ground_truth": "Aaron _Copland_",
+        "predicted_answers": [
+            "no ",
+            "yes ",
+            "door "
+        ],
+        "model": "Pengi"
+    },
+    "133": {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q7-01.wav",
+        "question": "question: name the opera",
+        "ground_truth": "_Rigoletto_",
+        "predicted_answers": [
+            "no ",
+            "novel ",
+            "noise "
+        ],
+        "model": "Pengi"
+    },
+    "134": {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q7-02.wav",
+        "question": "question: name the opera",
+        "ground_truth": "_Rigoletto_",
+        "predicted_answers": [
+            "no ",
+            "no music ",
+            "no concert "
+        ],
+        "model": "Pengi"
+    },
+    "135": {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q7-03.wav",
+        "question": "question: name the opera",
+        "ground_truth": "_Rigoletto_",
+        "predicted_answers": [
+            "no ",
+            "noise ",
+            "music "
+        ],
+        "model": "Pengi"
+    },
+    "136": {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q7-06.wav",
+        "question": "question: name the opera",
+        "ground_truth": "_Rigoletto_",
+        "predicted_answers": [
+            "no ",
+            "novel ",
+            "noise "
+        ],
+        "model": "Pengi"
+    },
+    "137": {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q7-04.wav",
+        "question": "question: name the opera",
+        "ground_truth": "_Rigoletto_",
+        "predicted_answers": [
+            "no ",
+            "noise ",
+            "novel "
+        ],
+        "model": "Pengi"
+    },
+    "138": {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q7-05.wav",
+        "question": "question: name the opera",
+        "ground_truth": "_Rigoletto_",
+        "predicted_answers": [
+            "no ",
+            "novel music ",
+            "novel "
+        ],
+        "model": "Pengi"
+    }
+}
