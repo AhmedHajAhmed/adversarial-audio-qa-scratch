@@ -1,0 +1,1253 @@
+[
+    {
+        "filename": "data/il1_r1q1-01.wav",
+        "question": "name the composer",
+        "ground_truth": "Manuel de Falla",
+        "predicted_answer": "The composer is John Williams.",
+        "score:": 0.17034037049827366,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il1_r1q1-02.wav",
+        "question": "name the composer",
+        "ground_truth": "Manuel de Falla",
+        "predicted_answer": "The composer of the piece is Frederic Chopin.",
+        "score:": 0.19869892397178357,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il1_r1q1-03.wav",
+        "question": "name the composer",
+        "ground_truth": "Manuel de Falla",
+        "predicted_answer": "The composer of the music is James Horner.",
+        "score:": 0.2024080754161257,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il1_r1q1-04.wav",
+        "question": "name the composer",
+        "ground_truth": "Manuel de Falla",
+        "predicted_answer": "The composer of the song \"Lo immo ger folgo fatuo lo mimudo\" is unknown.",
+        "score:": 0.21397098862812314,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il1_r1q1-05.wav",
+        "question": "name the composer",
+        "ground_truth": "Manuel de Falla",
+        "predicted_answer": "The composer of this song is Pyotr Ilyich Tchaikovsky.",
+        "score:": 0.08259307307106623,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il2_r1q2-01.wav",
+        "question": "name the work",
+        "ground_truth": "Symphony of a Thousand",
+        "predicted_answer": "The work is \"L'Homme Arme\" by Gabriel Faur\u00e9.",
+        "score:": 0.129067412819159,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il2_r1q2-02.wav",
+        "question": "name the work",
+        "ground_truth": "Symphony of a Thousand",
+        "predicted_answer": "The work is \"Ave Maria\" by Franz Schubert.",
+        "score:": 0.16637030816647347,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il2_r1q2-03.wav",
+        "question": "name the work",
+        "ground_truth": "Symphony of a Thousand",
+        "predicted_answer": "The work is \"The Ride of the Valkyries\".",
+        "score:": 0.274455978200147,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il2_r1q2-04.wav",
+        "question": "name the work",
+        "ground_truth": "Symphony of a Thousand",
+        "predicted_answer": "The work is \"\u60b2\u60e8\u4e16\u754c\".",
+        "score:": 0.11695462744034046,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il2_r1q2-05.wav",
+        "question": "name the work",
+        "ground_truth": "Symphony of a Thousand",
+        "predicted_answer": "The work is \"Ave Maria\".",
+        "score:": 0.1500226883544683,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il2_r1q2-06.wav",
+        "question": "name the work",
+        "ground_truth": "Symphony of a Thousand",
+        "predicted_answer": "The work is \"Imagine Dragons - Demons\".",
+        "score:": 0.15298302816929532,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il3_r1q3-01.wav",
+        "question": "name the work",
+        "ground_truth": "Camelot",
+        "predicted_answer": "The work is \"To Handle a Woman\".",
+        "score:": 0.10280187609734825,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il3_r1q3-02.wav",
+        "question": "name the work",
+        "ground_truth": "Camelot",
+        "predicted_answer": "The work is \"A Rose is My Love\".",
+        "score:": 0.152194754807915,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il3_r1q3-03.wav",
+        "question": "name the work",
+        "ground_truth": "Camelot",
+        "predicted_answer": "The work is \"Ti amo\".",
+        "score:": 0.15749707749709974,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il3_r1q3-04.wav",
+        "question": "name the work",
+        "ground_truth": "Camelot",
+        "predicted_answer": "The work is \"When swords are crossed\".",
+        "score:": 0.2268923614966254,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il3_r1q3-05.wav",
+        "question": "name the work",
+        "ground_truth": "Camelot",
+        "predicted_answer": "The work \"I loved you once in silence and misery\" is mentioned.",
+        "score:": 0.12546023238567716,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il3_r1q3-06.wav",
+        "question": "name the work",
+        "ground_truth": "Camelot",
+        "predicted_answer": "The work is \"Springtime, summer, winter, or fall\".",
+        "score:": 0.14055564021181233,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il4_r1q4-01.wav",
+        "question": "name the musical",
+        "ground_truth": "Chicago",
+        "predicted_answer": "The musical is \"The Wiz\".",
+        "score:": 0.11395130840377976,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il4_r1q4-02.wav",
+        "question": "name the musical",
+        "ground_truth": "Chicago",
+        "predicted_answer": "The musical is \"One Thing I Know\".",
+        "score:": 0.12143581787876079,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il4_r1q4-03.wav",
+        "question": "name the musical",
+        "ground_truth": "Chicago",
+        "predicted_answer": "The musical is \"I Can't Help Falling in Love\".",
+        "score:": 0.17633173288318182,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il4_r1q4-04.wav",
+        "question": "name the musical",
+        "ground_truth": "Chicago",
+        "predicted_answer": "The musical is \"The Best of Broadway\".",
+        "score:": 0.15212499112020728,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il4_r1q4-05.wav",
+        "question": "name the musical",
+        "ground_truth": "Chicago",
+        "predicted_answer": "The musical is \"It's a Man's World\".",
+        "score:": 0.1232749410954238,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il4_r1q4-06.wav",
+        "question": "name the musical",
+        "ground_truth": "Chicago",
+        "predicted_answer": "The musical is \"Ain't Misbehavin'\".",
+        "score:": 0.11395130840377976,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il5_r1q5-01.wav",
+        "question": "name the opera",
+        "ground_truth": "La boh\u00e8me",
+        "predicted_answer": "The opera is \"Il Trovatore\" by Giuseppe Verdi.",
+        "score:": 0.20862262972998458,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il5_r1q5-02.wav",
+        "question": "name the opera",
+        "ground_truth": "La boh\u00e8me",
+        "predicted_answer": "The opera is \"The Magic Flute\" by Wolfgang Amadeus Mozart.",
+        "score:": 0.15755598263490356,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il5_r1q5-03.wav",
+        "question": "name the opera",
+        "ground_truth": "La boh\u00e8me",
+        "predicted_answer": "The opera is \"L'elisir d'amore\".",
+        "score:": 0.14426549893168528,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il5_r1q5-04.wav",
+        "question": "name the opera",
+        "ground_truth": "La boh\u00e8me",
+        "predicted_answer": "The opera is \"The Marriage of Figaro\".",
+        "score:": 0.15177753023585516,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il5_r1q5-05.wav",
+        "question": "name the opera",
+        "ground_truth": "La boh\u00e8me",
+        "predicted_answer": "The opera is \"La Boh\u00e8me\".",
+        "score:": 1.0,
+        "match_result": true,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/il5_r1q5-06.wav",
+        "question": "name the opera",
+        "ground_truth": "La boh\u00e8me",
+        "predicted_answer": "The opera is \"Lucia di Lammermoor\".",
+        "score:": 0.16202133909088023,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement1_r1q18-01.wav",
+        "question": "name the type of song",
+        "ground_truth": "anime opening themes",
+        "predicted_answer": "The type of song is experimental pop.",
+        "score:": 0.15457446828839527,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement1_r1q18-02.wav",
+        "question": "name the type of song",
+        "ground_truth": "anime opening themes",
+        "predicted_answer": "The type of song is experimental pop.",
+        "score:": 0.15457446828839527,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement1_r1q18-03.wav",
+        "question": "name the type of song",
+        "ground_truth": "anime opening themes",
+        "predicted_answer": "The type of song is pop, indie-rock.",
+        "score:": 0.13524896977141243,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement1_r1q18-04.wav",
+        "question": "name the type of song",
+        "ground_truth": "anime opening themes",
+        "predicted_answer": "The type of song is electronic, experimental, glitch.",
+        "score:": 0.15248994298202823,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement1_r1q18-05.wav",
+        "question": "name the type of song",
+        "ground_truth": "anime opening themes",
+        "predicted_answer": "The type of the song is rock.",
+        "score:": 0.11717897734779692,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement1_r1q18-06.wav",
+        "question": "name the type of song.",
+        "ground_truth": "anime opening themes",
+        "predicted_answer": "The type of song is pop, rock, electronic, dance.",
+        "score:": 0.16603479031996593,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement1_r7q10-01.wav",
+        "question": "name the group.",
+        "ground_truth": "The Strokes",
+        "predicted_answer": "The group is The Who.",
+        "score:": 0.1845959914587919,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement1_r7q10-02.wav",
+        "question": "name the group.",
+        "ground_truth": "The Strokes",
+        "predicted_answer": "The group is The White Stripes.",
+        "score:": 0.1263895076843342,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement1_r7q10-03.wav",
+        "question": "name the group.",
+        "ground_truth": "The Strokes",
+        "predicted_answer": "The group is The Beatles.",
+        "score:": 0.12389692867020863,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement1_r7q10-04.wav",
+        "question": "name the group.",
+        "ground_truth": "The Strokes",
+        "predicted_answer": "The group is called The Fuzz.",
+        "score:": 0.15649345217962884,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement1_r7q10-05.wav",
+        "question": "name the group.",
+        "ground_truth": "The Strokes",
+        "predicted_answer": "The group is The Romantics.",
+        "score:": 0.16228832857822828,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement1_r7q10-06.wav",
+        "question": "name the group.",
+        "ground_truth": "The Strokes",
+        "predicted_answer": "The group is The Dollyrots.",
+        "score:": 0.1368733590665826,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement2_r12q12-01.wav",
+        "question": "name the group.",
+        "ground_truth": "Cascada",
+        "predicted_answer": "The group is Pop Smoke.",
+        "score:": 0.147401003931957,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement2_r12q12-02.wav",
+        "question": "name the group.",
+        "ground_truth": "Cascada",
+        "predicted_answer": "The group is called The Pussycat Dolls.",
+        "score:": 0.1816326212051509,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement2_r12q12-03.wav",
+        "question": "name the group.",
+        "ground_truth": "Cascada",
+        "predicted_answer": "The group is called \"Kreayshawn\".",
+        "score:": 0.126739871122717,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement2_r12q12-04.wav",
+        "question": "name the group.",
+        "ground_truth": "Cascada",
+        "predicted_answer": "The group is called \"Madonna\".",
+        "score:": 0.15169807852149508,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement2_r12q12-05.wav",
+        "question": "name the group.",
+        "ground_truth": "Cascada",
+        "predicted_answer": "The group is called \"The Saturdays\".",
+        "score:": 0.126739871122717,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement2_r12q12-06.wav",
+        "question": "name the group.",
+        "ground_truth": "Cascada",
+        "predicted_answer": "The group is Popstar.",
+        "score:": 0.10198526449917289,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement2_r1q10-01.wav",
+        "question": "give the first word in the titles of these songs.",
+        "ground_truth": "baby",
+        "predicted_answer": "The first word in the titles of these songs are \"the\", \"in\", \"a\", \"you\", \"it\", \"is\", \"to\", \"on\", \"in\", \"to\", \"for\", \"that\", \"is\", \"you\", \"are\", \"you\", \"are\", \"that\", \"to\", \"you\", \"are\", \"to\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\", \"that\",",
+        "score:": 0.38265102422789743,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement2_r1q10-02.wav",
+        "question": "give the first word in the titles of these songs.",
+        "ground_truth": "baby",
+        "predicted_answer": "The first word in the titles of these songs are \"Say\", \"Baby\", \"Time\", \"Life\", \"Spending\", \"Before\", \"Somebody\".",
+        "score:": 1.0,
+        "match_result": true,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement2_r1q10-03.wav",
+        "question": "give the first word in the titles of these songs.",
+        "ground_truth": "baby",
+        "predicted_answer": "The first word in the titles of these songs are: \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have\", \"I\", \"Have",
+        "score:": 0.2592190872947885,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement2_r1q10-04.wav",
+        "question": "give the first word in the titles of these songs.",
+        "ground_truth": "baby",
+        "predicted_answer": "The first word in the titles of these songs are \"You\", \"Can\", \"Flame\", \"Blame\", \"All\", \"On\", \"Me\", \"I\", \"Was\", \"Wrong\", \"And\", \"I\", \"Just\", \"Can't\", \"Live\", \"Without\", \"You\".",
+        "score:": 0.08929489331401153,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement2_r1q10-05.wav",
+        "question": "give the first word in the titles of these songs.",
+        "ground_truth": "baby",
+        "predicted_answer": "The first word in the title of these songs is \"Make\".",
+        "score:": 0.05514662930628522,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement2_r1q10-06.wav",
+        "question": "give the first word in the titles of these songs.",
+        "ground_truth": "baby",
+        "predicted_answer": "The first word in the titles of these songs are \"look\", \"she's\", \"like\", \"big\", \"buts\", \"and\", \"i\", \"cannot\", \"lie\", \"you\", \"other\", \"brothers\", \"can't\", \"deny\", \"when\", \"a\", \"girl\", \"walks\", \"say\", \"when\", \"everybody\", \"wants\".",
+        "score:": 0.11483108975025236,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement3_r11q16-01.wav",
+        "question": "name the media franchise that these songs are most associated with.",
+        "ground_truth": "Rocky",
+        "predicted_answer": "These songs are most associated with the media franchise \"The Carpenters\".",
+        "score:": 0.2071911191921647,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement3_r11q16-02.wav",
+        "question": "name the media franchise that these songs are most associated with.",
+        "ground_truth": "Rocky",
+        "predicted_answer": "The media franchise that these songs are most associated with is the Fast and Furious franchise.",
+        "score:": 0.22490816562092908,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement3_r11q16-03.wav",
+        "question": "name the media franchise that these songs are most associated with.",
+        "ground_truth": "Rocky",
+        "predicted_answer": "These songs are most associated with the media franchise \"Rock Band\".",
+        "score:": 0.18649531314541046,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement3_r11q16-04.wav",
+        "question": "name the media franchise that these songs are most associated with.",
+        "ground_truth": "Rocky",
+        "predicted_answer": "These songs are most associated with the media franchise \"Rock Band\".",
+        "score:": 0.18649531314541046,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement3_r11q16-05.wav",
+        "question": "name the media franchise that these songs are most associated with.",
+        "ground_truth": "Rocky",
+        "predicted_answer": "The media franchise that these songs are most associated with is \"Baywatch.\"",
+        "score:": 0.2224042917157013,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement3_r11q16-06.wav",
+        "question": "name the media franchise that these songs are most associated with.",
+        "ground_truth": "Rocky",
+        "predicted_answer": "These songs are most associated with the media franchise \"Metallica\".",
+        "score:": 0.2010570957310841,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement3_r8q16-01.wav",
+        "question": "name the type of person mentioned in the titles of these songs.",
+        "ground_truth": "enemy",
+        "predicted_answer": "The type of person mentioned in the titles of these songs is a man.",
+        "score:": 0.07401557441246875,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement3_r8q16-02.wav",
+        "question": "name the type of person mentioned in the titles of these songs.",
+        "ground_truth": "enemy",
+        "predicted_answer": "The type of person mentioned in the titles of these songs are men.",
+        "score:": 0.08074554791295341,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement3_r8q16-03.wav",
+        "question": "name the type of person mentioned in the titles of these songs.",
+        "ground_truth": "enemy",
+        "predicted_answer": "The type of person mentioned in the titles of these songs is a man.",
+        "score:": 0.07401557441246875,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement3_r8q16-04.wav",
+        "question": "name the type of person mentioned in the titles of these songs.",
+        "ground_truth": "enemy",
+        "predicted_answer": "The type of person mentioned in the titles of these songs is a man.",
+        "score:": 0.07401557441246875,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement3_r8q16-05.wav",
+        "question": "name the type of person mentioned in the titles of these songs.",
+        "ground_truth": "enemy",
+        "predicted_answer": "The type of person mentioned in the titles of these songs is a man.",
+        "score:": 0.07401557441246875,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/pavement3_r8q16-06.wav",
+        "question": "name the type of person mentioned in the titles of these songs.",
+        "ground_truth": "enemy",
+        "predicted_answer": "The type of person mentioned in the titles of these songs is a man.",
+        "score:": 0.07401557441246875,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/soundtrack2_r2q1-01.wav",
+        "question": "the male characters singing these songs share what first name?",
+        "ground_truth": "Joe",
+        "predicted_answer": "The male characters singing these songs are named Frank Sinatra.",
+        "score:": 0.14268116788324525,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/soundtrack2_r2q1-02.wav",
+        "question": "the male characters singing these songs share what first name?",
+        "ground_truth": "Joe",
+        "predicted_answer": "The male characters singing these songs are not explicitly mentioned. However, the first song is a cover of a song originally performed by the band \"The Microphones\", and the second song is a cover of a song originally performed by the band \"The Beatles\".",
+        "score:": 0.1420336801123785,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/soundtrack2_r2q1-03.wav",
+        "question": "the male characters singing these songs share what first name?",
+        "ground_truth": "Joe",
+        "predicted_answer": "The male characters singing these songs do not have their first names mentioned.",
+        "score:": 0.12851859899653262,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/soundtrack2_r2q1-04.wav",
+        "question": "the male characters singing these songs share what first name?",
+        "ground_truth": "Joe",
+        "predicted_answer": "The male characters singing these songs are not explicitly mentioned.",
+        "score:": 0.14209812881884687,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/soundtrack2_r2q1-05.wav",
+        "question": "the male characters singing these songs share what first name?",
+        "ground_truth": "Joe",
+        "predicted_answer": "The male characters singing these songs are named Andy, Brian, and Mike.",
+        "score:": 0.14962127602866382,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/soundtrack2_r2q1-06.wav",
+        "question": "the male characters singing these songs share what first name?",
+        "ground_truth": "Joe",
+        "predicted_answer": "The male characters singing these songs are named \"Tom\".",
+        "score:": 0.15906619263924981,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/soundtrack_r1q1-01.wav",
+        "question": "name the work.",
+        "ground_truth": "Saving Private Ryan",
+        "predicted_answer": "The work is \"Ave Maria\".",
+        "score:": 0.1631656194012855,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/soundtrack_r1q1-02.wav",
+        "question": "name the work.",
+        "ground_truth": "Saving Private Ryan",
+        "predicted_answer": "The work is \"Eine kleine Nachtmusik\" by Wolfgang Amadeus Mozart.",
+        "score:": 0.20428240810387088,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/soundtrack_r1q1-03.wav",
+        "question": "name the work.",
+        "ground_truth": "Saving Private Ryan",
+        "predicted_answer": "The work is \"Fanfare for the Common Man\" by Aaron Copland.",
+        "score:": 0.17755480914897803,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/soundtrack_r1q1-04.wav",
+        "question": "name the work.",
+        "ground_truth": "Saving Private Ryan",
+        "predicted_answer": "The work is \"Ode to Joy\" by Ludwig van Beethoven.",
+        "score:": 0.18152773010069811,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/soundtrack_r1q1-05.wav",
+        "question": "name the work.",
+        "ground_truth": "Saving Private Ryan",
+        "predicted_answer": "The work is \"The Star-Spangled Banner\".",
+        "score:": 0.14254113021615755,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/soundtrack_r1q2-01.wav",
+        "question": "name the work.",
+        "ground_truth": "Ben-Hur",
+        "predicted_answer": "The work is \"Eyes on the Prize\".",
+        "score:": 0.09273714322016824,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/soundtrack_r1q2-02.wav",
+        "question": "name the work.",
+        "ground_truth": "Ben-Hur",
+        "predicted_answer": "The work is \"Ave Maria\".",
+        "score:": 0.13949234775804387,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/soundtrack_r1q2-03.wav",
+        "question": "name the work.",
+        "ground_truth": "Ben-Hur",
+        "predicted_answer": "The work is \"The Entertainer\".",
+        "score:": 0.12277010345601358,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/soundtrack_r1q2-04.wav",
+        "question": "name the work.",
+        "ground_truth": "Ben-Hur",
+        "predicted_answer": "The work is \"The Star-Spangled Banner\".",
+        "score:": 0.115938025764462,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/soundtrack_r1q2-05.wav",
+        "question": "name the work.",
+        "ground_truth": "Ben-Hur",
+        "predicted_answer": "The work is \"The Entertainer\".",
+        "score:": 0.12277010345601358,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/soundtrack_r1q2-06.wav",
+        "question": "name the work.",
+        "ground_truth": "Ben-Hur",
+        "predicted_answer": "The work is \"Hymn to Liberty\" by Pyotr Ilyich Tchaikovsky.",
+        "score:": 0.17409349924987316,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/EternalSonata_r5_q10-03.wav",
+        "question": "name the game",
+        "ground_truth": "KATAMARI DAMACY",
+        "predicted_answer": "The game is an instrumental.",
+        "score:": 0.1587687397086206,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/EternalSonata_r5_q10-02.wav",
+        "question": "name the game",
+        "ground_truth": "KATAMARI DAMACY",
+        "predicted_answer": "The game is likely \"Super Stardust HD\" for the PlayStation 3.",
+        "score:": 0.22242055761230073,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/EternalSonata_r4_q1-06.wav",
+        "question": "name the series",
+        "ground_truth": "ASSASSIN'S CREED",
+        "predicted_answer": "The series is \"Game of Thrones\".",
+        "score:": 0.2509423836624125,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/EternalSonata_r2_q1-01.wav",
+        "question": "name the series",
+        "ground_truth": "GRADIUS",
+        "predicted_answer": "The series is \"\u7535\u73a9\u6e38\u620f\".",
+        "score:": 0.11377655885174265,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/EternalSonata_r2_q1-03.wav",
+        "question": "name the series",
+        "ground_truth": "GRADIUS",
+        "predicted_answer": "The series is \"Space Station 13\".",
+        "score:": 0.1442144788300438,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/EternalSonata_r4_q1-04.wav",
+        "question": "name the series",
+        "ground_truth": "ASSASSIN'S CREED",
+        "predicted_answer": "The series is called \"\u9ed1\u6697\u5723\u5802\".",
+        "score:": 0.22014979734436235,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/EternalSonata_r5_q10-01.wav",
+        "question": "name the game",
+        "ground_truth": "KATAMARI DAMACY",
+        "predicted_answer": "The game is likely to be \"Perfect Dark\" as the background music is similar to the music in the game.",
+        "score:": 0.28749306705060207,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/EternalSonata_r4_q1-05.wav",
+        "question": "name the series",
+        "ground_truth": "ASSASSIN'S CREED",
+        "predicted_answer": "The series is called \"Breaking Bad\".",
+        "score:": 0.20466724930772273,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/EternalSonata_r2_q1-02.wav",
+        "question": "name the series",
+        "ground_truth": "GRADIUS",
+        "predicted_answer": "The series is called \"8-Bit Heroes\".",
+        "score:": 0.16142885158595555,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/EternalSonata_r2_q1-06.wav",
+        "question": "name the series",
+        "ground_truth": "GRADIUS",
+        "predicted_answer": "The series is \"\u540d\u4fa6\u63a2\u67ef\u5357\".",
+        "score:": 0.11377655885174265,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/EternalSonata_r4_q1-01.wav",
+        "question": "name the series",
+        "ground_truth": "ASSASSIN'S CREED",
+        "predicted_answer": "The series is called \"The White Vault\".",
+        "score:": 0.22555407815446105,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/EternalSonata_r5_q10-05.wav",
+        "question": "name the game",
+        "ground_truth": "KATAMARI DAMACY",
+        "predicted_answer": "The lyrics are \"\u8a00\u8449\u306f\u307e\u308b\u3067 \u898b\u308b\u8272\u306b\u67d3\u3081\u307e\u3059 \u306a\u306b\u304b\u3068\u3044\u3046 \u770b\u3064\u624b\u3092\u3042\u308c\u3070\".",
+        "score:": 0.08718149460232183,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/EternalSonata_r5_q10-04.wav",
+        "question": "name the game",
+        "ground_truth": "KATAMARI DAMACY",
+        "predicted_answer": "The game is likely \"\u4eca\u591c\u306f\u30ed\u30dc\u30c3\u30c8\u306e\u591c\" (Tonight is the Night of Robots).",
+        "score:": 0.20751313244483394,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/EternalSonata_r2_q1-05.wav",
+        "question": "name the series",
+        "ground_truth": "GRADIUS",
+        "predicted_answer": "The series is \"\u706b\u5f71\u5fcd\u8005\".",
+        "score:": 0.11377655885174265,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/EternalSonata_r4_q1-02.wav",
+        "question": "name the series",
+        "ground_truth": "ASSASSIN'S CREED",
+        "predicted_answer": "The series is \"\u5965\u7279\u66fc\".",
+        "score:": 0.1995024413170453,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/EternalSonata_r4_q1-03.wav",
+        "question": "name the series",
+        "ground_truth": "ASSASSIN'S CREED",
+        "predicted_answer": "The series is \"Game of Thrones\".",
+        "score:": 0.2509423836624125,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/EternalSonata_r2_q1-04.wav",
+        "question": "name the series",
+        "ground_truth": "GRADIUS",
+        "predicted_answer": "The series is \"\u521d\u97f3\u672a\u6765\".",
+        "score:": 0.11377655885174265,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_MiriamNussbaum_q7-06.wav",
+        "question": "name the composer",
+        "ground_truth": "L\u00e9o _Delibes_",
+        "predicted_answer": "The composer of this song is Tchaikovsky.",
+        "score:": 0.03695209092397633,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_MiriamNussbaum_q7-07.wav",
+        "question": "name the composer",
+        "ground_truth": "L\u00e9o _Delibes_",
+        "predicted_answer": "The composer of the song \"So will I\" is Richard Wagner.",
+        "score:": 0.17365660852608933,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_MiriamNussbaum_q7-05.wav",
+        "question": "name the composer",
+        "ground_truth": "L\u00e9o _Delibes_",
+        "predicted_answer": "The composer of this piece is Vangelis.",
+        "score:": 0.029236897866826372,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_MiriamNussbaum_q7-04.wav",
+        "question": "name the composer",
+        "ground_truth": "L\u00e9o _Delibes_",
+        "predicted_answer": "The composer of the music is Max Steiner.",
+        "score:": 0.17917284656523735,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_MiriamNussbaum_q7-01.wav",
+        "question": "name the composer",
+        "ground_truth": "L\u00e9o _Delibes_",
+        "predicted_answer": "The composer of this music is Johann Sebastian Bach.",
+        "score:": 0.05709149051120399,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_MiriamNussbaum_q7-03.wav",
+        "question": "name the composer",
+        "ground_truth": "L\u00e9o _Delibes_",
+        "predicted_answer": "The composer of this music is not mentioned in the audio.",
+        "score:": 0.026282535466263468,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_MiriamNussbaum_q7-02.wav",
+        "question": "name the composer",
+        "ground_truth": "L\u00e9o _Delibes_",
+        "predicted_answer": "The composer of this piece is Ludwig van Beethoven.",
+        "score:": 0.04313933337707321,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q1-03.wav",
+        "question": "name the composer",
+        "ground_truth": "Aaron _Copland_",
+        "predicted_answer": "The composer of this piece is unknown.",
+        "score:": 0.046159396547899356,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_ChrisSims_q3-04.wav",
+        "question": "identify the kind of word or unit that prominently appears in the titles or subtitles of these pieces",
+        "ground_truth": "_year_",
+        "predicted_answer": "The word or unit \"\u7231\" prominently appears in the titles or subtitles of these pieces.",
+        "score:": 0.1042379552865621,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_JeremyTsai_q7-05.wav",
+        "question": "name the composer",
+        "ground_truth": "_Josquin_ des Prez",
+        "predicted_answer": "The composer of this song is unknown.",
+        "score:": 0.037249511936938706,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_JeremyTsai_q7-04.wav",
+        "question": "name the composer",
+        "ground_truth": "_Josquin_ des Prez",
+        "predicted_answer": "The composer of this song is unknown.",
+        "score:": 0.037249511936938706,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_ChrisSims_q3-05.wav",
+        "question": "identify the kind of word or unit that prominently appears in the titles or subtitles of these pieces",
+        "ground_truth": "_year_",
+        "predicted_answer": "String section plays a light, lively tune with a fast tempo.",
+        "score:": 0.12898247438627386,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_MichaelLi_q6-01.wav",
+        "question": "name the work",
+        "ground_truth": "_Hammerklavier_ Sonata",
+        "predicted_answer": "The work is \"F\u00fcr Elise\" by Ludwig van Beethoven.",
+        "score:": 0.17219077124509463,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q1-02.wav",
+        "question": "name the composer",
+        "ground_truth": "Aaron _Copland_",
+        "predicted_answer": "The composer of the audio is Charlie Chaplin.",
+        "score:": 0.17465950125318042,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_MichaelLi_q6-03.wav",
+        "question": "name the work",
+        "ground_truth": "_Hammerklavier_ Sonata",
+        "predicted_answer": "The work is \"My Way\" by Frank Sinatra.",
+        "score:": 0.11580973325962796,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_JeremyTsai_q7-06.wav",
+        "question": "name the composer",
+        "ground_truth": "_Josquin_ des Prez",
+        "predicted_answer": "The composer of the song is Sia.",
+        "score:": 0.14962322466884492,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_JeremyTsai_q7-07.wav",
+        "question": "name the composer",
+        "ground_truth": "_Josquin_ des Prez",
+        "predicted_answer": "The composer of the song is not mentioned in the audio.",
+        "score:": 0.08529372114761691,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_ChrisSims_q3-06.wav",
+        "question": "identify the kind of word or unit that prominently appears in the titles or subtitles of these pieces",
+        "ground_truth": "_year_",
+        "predicted_answer": "The word or unit that prominently appears in the titles or subtitles of these pieces is \"\u94a2\u7434\".",
+        "score:": 0.11330501705948093,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_MichaelLi_q6-02.wav",
+        "question": "name the work",
+        "ground_truth": "_Hammerklavier_ Sonata",
+        "predicted_answer": "The work is \"F\u00fcr Elise\" by Ludwig van Beethoven.",
+        "score:": 0.17219077124509463,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q1-01.wav",
+        "question": "name the composer",
+        "ground_truth": "Aaron _Copland_",
+        "predicted_answer": "The composer is John Williams.",
+        "score:": 0.13716791821689578,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q1-05.wav",
+        "question": "name the composer",
+        "ground_truth": "Aaron _Copland_",
+        "predicted_answer": "The composer of the music is Pyotr Ilyich Tchaikovsky.",
+        "score:": 0.20407874108476276,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_MichaelLi_q6-06.wav",
+        "question": "name the work",
+        "ground_truth": "_Hammerklavier_ Sonata",
+        "predicted_answer": "The work is \"Preludes, Book 2, No. 15 in E major\" by Frederic Chopin.",
+        "score:": 0.1380917846762043,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_ChrisSims_q3-02.wav",
+        "question": "identify the kind of word or unit that prominently appears in the titles or subtitles of these pieces",
+        "ground_truth": "_year_",
+        "predicted_answer": "The word or unit that prominently appears in the titles or subtitles of these pieces is \"chimes\".",
+        "score:": 0.11330501705948093,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_JeremyTsai_q7-03.wav",
+        "question": "name the composer",
+        "ground_truth": "_Josquin_ des Prez",
+        "predicted_answer": "The composer of this song is Pauline Oliveros.",
+        "score:": 0.04122931210623271,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_JeremyTsai_q7-02.wav",
+        "question": "name the composer",
+        "ground_truth": "_Josquin_ des Prez",
+        "predicted_answer": "The composer of this song is Paul Mealor.",
+        "score:": 0.03348353592094988,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_ChrisSims_q3-03.wav",
+        "question": "identify the kind of word or unit that prominently appears in the titles or subtitles of these pieces",
+        "ground_truth": "_year_",
+        "predicted_answer": "The piece starts with a short brass theme that is repeated with different instruments. The main theme is then played by the brass section with the orchestra. The theme is played again at the end of the piece.",
+        "score:": 0.19596866771699195,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_MichaelLi_q6-07.wav",
+        "question": "name the work",
+        "ground_truth": "_Hammerklavier_ Sonata",
+        "predicted_answer": "The work is \"F\u00fcr Elise\" by Ludwig van Beethoven.",
+        "score:": 0.17219077124509463,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q1-04.wav",
+        "question": "name the composer",
+        "ground_truth": "Aaron _Copland_",
+        "predicted_answer": "The composer is Lera Auerbach.",
+        "score:": 0.15921503053317265,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q1-06.wav",
+        "question": "name the composer",
+        "ground_truth": "Aaron _Copland_",
+        "predicted_answer": "The composer of this music is George Gershwin.",
+        "score:": 0.047085938115214554,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_MichaelLi_q6-05.wav",
+        "question": "name the work",
+        "ground_truth": "_Hammerklavier_ Sonata",
+        "predicted_answer": "The work is \"St. Louis Blues\".",
+        "score:": 0.15042930777793206,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_ChrisSims_q3-01.wav",
+        "question": "identify the kind of word or unit that prominently appears in the titles or subtitles of these pieces",
+        "ground_truth": "_year_",
+        "predicted_answer": "The word or unit \"string\" prominently appears in the titles or subtitles of these pieces.",
+        "score:": 0.10409176609760673,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_JeremyTsai_q7-01.wav",
+        "question": "name the composer",
+        "ground_truth": "_Josquin_ des Prez",
+        "predicted_answer": "The composer of this song is unknown.",
+        "score:": 0.037249511936938706,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_MichaelLi_q6-04.wav",
+        "question": "name the work",
+        "ground_truth": "_Hammerklavier_ Sonata",
+        "predicted_answer": "The work is \"The Rite of Spring\".",
+        "score:": 0.13847171531103974,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q1-07.wav",
+        "question": "name the composer",
+        "ground_truth": "Aaron _Copland_",
+        "predicted_answer": "The composer is John Philip Sousa.",
+        "score:": 0.1635428600504163,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q7-01.wav",
+        "question": "name the opera",
+        "ground_truth": "_Rigoletto_",
+        "predicted_answer": "The opera is \"Il Trovatore\".",
+        "score:": 0.1655187745072324,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q7-02.wav",
+        "question": "name the opera",
+        "ground_truth": "_Rigoletto_",
+        "predicted_answer": "The opera is \"Orlando Furioso\".",
+        "score:": 0.18452922533613914,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q7-03.wav",
+        "question": "name the opera",
+        "ground_truth": "_Rigoletto_",
+        "predicted_answer": "The opera is \"La Finta Giardiniera\" by W.A. Mozart.",
+        "score:": 0.1825153286386667,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q7-06.wav",
+        "question": "name the opera",
+        "ground_truth": "_Rigoletto_",
+        "predicted_answer": "The opera is \"La donna \u00e8 mobile\" from the opera \"Rigoletto\" by Giuseppe Verdi.",
+        "score:": 1.0,
+        "match_result": true,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q7-04.wav",
+        "question": "name the opera",
+        "ground_truth": "_Rigoletto_",
+        "predicted_answer": "The opera is \"La Boh\u00e8me\".",
+        "score:": 0.1646934573662837,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    },
+    {
+        "filename": "data/GuerillaImaginaryLandscape_BeverlyFu_q7-05.wav",
+        "question": "name the opera",
+        "ground_truth": "_Rigoletto_",
+        "predicted_answer": "The opera is \"La Bella Manza\".",
+        "score:": 0.15398783512078462,
+        "match_result": false,
+        "model": "Qwen-Audio"
+    }
+]
